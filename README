@@ -1,0 +1,13 @@
+Justin Mancinelli
+
+Assignment 1 for COMP2303 at the University of Queensland
+
+Description:
+    A single player implementation of battle ship written in C.
+
+Files:
+    COMP2303_2010_Assignment1.pdf -- Design specification
+    naval.c -- Source
+    standard.rules -- Standard rules
+    map1.map -- Example map from design specification
+    Makefile -- For making the executable from source
